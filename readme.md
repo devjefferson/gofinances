@@ -8,7 +8,7 @@
 
 # Vizualizar aplicativo com Expo Go
 
-## [Código QR:](https://expo.dev/@robertbernd/gofinances)
+## [Código QR:](https://expo.dev/@ndiesuper/gofinances)
 
   <img alt="GoFinances" title="GoFinances" src=".github/assets/qrcode.png" width="128px" />
 
